@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Abdul Salam Al-Saeedi
 
-<!--
-**Abduoz-Saidi/Abduoz-Saidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Flutter · ASP.NET · Laravel · AI Integration**
 
-Here are some ideas to get you started:
+IT graduate (2025), interested in building mobile and web applications and integrating AI into practical workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [PicToStock — Smart Inventory System](https://github.com/Abduoz-Saidi/pictostock-showcase)
+
+A five-person graduation project exploring photo-assisted inventory with computer vision.
+
+My contribution: led dataset collection and annotation, trained the detection model, and contributed to the administration dashboard.
+
+[Explore the case study, architecture, screenshots, and results →](https://github.com/Abduoz-Saidi/pictostock-showcase)
+
+The showcase documents the team's system, my specific role, and the limitations of the reported model results.
